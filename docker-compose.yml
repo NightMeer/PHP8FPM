@@ -1,0 +1,4 @@
+services:
+  apache:
+    image: ghcr.io/nightmeer/php8fpm:8.1
+
